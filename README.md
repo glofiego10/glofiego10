@@ -3,22 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm German, a freelance developer with Flutter main language full time 💻 working remotely from 2020. 
+### <div align="center">I'm German 
 </div>  
-  
 
-- 🔭 I am currently working as a Freelancer.  
+- 📚 Read Coserme, the best epic fantasy ever.  
   
-
-- 🌱 I’m currently learning React and Redux  
-  
-
-- ❓ Ask me about anything related to Flutter and related technologies  
-  
-
-- 📚 Lean Coserme, the best epic fantasy ever.  
-  
-
 <br/>  
 
 
